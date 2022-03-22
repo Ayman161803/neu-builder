@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"rootDir": "src/",
+		"outDir": "./types/",
+		"declaration": true,
+		"emitDeclarationOnly": true,
+		"allowJs": true,
+		"removeComments": true
+	},
+	"include": ["./src/index.js"]
+}
